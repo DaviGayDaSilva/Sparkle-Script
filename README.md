@@ -3,8 +3,10 @@ Esse Script Simula 1 benção (não há GUI, é só terminal)
 Pode modificar!
 
 # Download
-Use
-
+1. Baixar o git
+`apt install git`
+2. Baixar o Sparkle Script
+`git clone https://github.com/DaviGayDaSilva/Sparkle-Script.git`
 # Requisitos
 - Python3+
 - vlc
